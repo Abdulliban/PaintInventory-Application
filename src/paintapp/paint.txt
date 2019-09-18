@@ -1,0 +1,30 @@
+2|asd|Oil|Gloss|00ff00|12|12.0|12|de
+3|Green|Oil|Matte|66ff33|12|25.0|12|Delux
+5|Black|Oil|Matte|000000|12|25.0|12|Delux
+7|White|Oil|Matte|ffffff|21|25.0|12|Delux
+7|Purple|Oil|Matte|800080|21|25.0|12|Delux
+8|Teal|Oil|Matte|008080|21|25.0|12|Delux
+9|Magenta|Oil|Matte|ff00ff|21|25.0|12|Delux
+10|Silver|Oil|Matte|c0c0c0|21|25.0|12|Delux
+11|Gold|Oil|Matte|ffd700|21|25.0|12|Delux
+12|Brown|Oil|Matte|a52a2a|21|25.0|12|Delux
+13|Orche|Oil|Matte|8e2525|21|25.0|12|Delux
+14|Grey|Oil|Matte|808080|21|25.0|12|Delux
+15|Orange|Oil|Matte|ffa500|21|25.0|12|Delux
+16|Red|Water|gloss|ff0000|21|30.0|12|Prem
+17|Blue|Water|gloss|0000ff|21|30.0|12|Prem
+18|Green|Water|gloss|66ff33|21|30.0|12|Prem
+19|Yellow|Water|gloss|ffff00|21|30.0|12|Prem
+20|Black|Water|gloss|000000|21|30.0|12|Prem
+21|White|Water|gloss|ffffff|21|30.0|12|Prem
+22|Purple|Water|gloss|800080|21|30.0|12|Prem
+23|Sea green|Oil|Matte|008080|24|40.0|14|Delux
+24|Magenta|Water|gloss|ff00ff|21|12.0|12|Prem
+25|Silver|Water|gloss|c0c0c0|21|12.0|12|Prem
+26|Gold|Water|gloss|ffd700|21|12.0|12|Prem
+27|Brown|Water|gloss|a52a2a|21|12.0|12|Prem
+28|Orche|Water|gloss|8e2525|21|12.0|12|Prem
+29|Grey|Water|gloss|808080|21|12.0|12|Prem
+30|Orange|Water|gloss|ffa500|21|12.0|12|Prem
+32|Space Silver|Water|Matte|ff88404|12|50.0|17|Prem
+31|a|Water|Gloss|ffffff|12|12.0|12|del
